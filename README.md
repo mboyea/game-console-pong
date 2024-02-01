@@ -2,7 +2,7 @@ Windows Console Pong
 ===
 A simple Pong game for Windows terminals.
 ---
-This is the first game I built with C++. It is windows-only as it depends upon the Win32 API. It was completed on 2020/07/07.
+This is the second game I built with C++. It is windows-only as it depends upon the Win32 API. It was completed on 2020/07/07.
 
 ![The game has variable difficulty!](img/difficulty-screen.png)
 
