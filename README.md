@@ -4,9 +4,9 @@ A simple Pong game for Windows terminals.
 ---
 This is the first game I built with C++. It is windows-only as it depends upon the Win32 API. It was completed on 2020/07/07.
 
-[The game has variable difficulty!](img/difficulty-screen.png)
+![The game has variable difficulty!](img/difficulty-screen.png)
 
-[Screenshot of the gameplay.](img/game-screen.png)
+![Screenshot of the gameplay.](img/game-screen.png)
 
 ### Install on Windows
 * [Install 7-Zip](https://7-zip.org/download.html).
